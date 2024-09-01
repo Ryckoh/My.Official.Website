@@ -1,3 +1,2 @@
-# photography-site
-
-Hi there! This is a simple and multipage photography website.
+Hello, Welcome to my portfolio Website.
+Here`s the link: https://ryckoh.github.io/Erick-Ngila/index.html
