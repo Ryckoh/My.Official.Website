@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6, p{
 
 .header{
     min-height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/Header\ 2.jpg") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/Header\ 3.jpg") center/cover no-repeat;
     color: #fff;
 }
 .top-nav a{
@@ -83,7 +83,7 @@ h1, h2, h3, h4, h5, h6, p{
     background: #000;
     position: relative;
     z-index: 999;
-    height: 90px;
+    height: 70px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -97,8 +97,8 @@ h1, h2, h3, h4, h5, h6, p{
     cursor: pointer;
 }
 .navBtn{
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border: 1px solid var(--white);
     cursor: pointer;
 }
@@ -246,8 +246,9 @@ blockquote span{
     opacity: 0.9;
 }
 .sec-one-left div p{
-    font-weight: 300;
-    opacity: 0.8;
+    font-weight: 500;
+    opacity: 1.0;
+    height: 13%
 }
 .sec-one-right h3{
     color: var(--lightGrey);
@@ -257,7 +258,7 @@ blockquote span{
 }
 .sec-one-right p{
     opacity: 0.9;
-    font-weight: 300;
+    font-weight: 400;
 }
 .work-content{
     margin: 50px 0;
@@ -669,7 +670,7 @@ blockquote span{
 @media screen and (max-width: 500px){
     /* overall styling */
     .header{
-        padding-bottom: 30px;
+        padding-bottom: 20px;
     }
     .social-icons{
         display: none;
