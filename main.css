@@ -241,7 +241,7 @@ blockquote span{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 30px;
+    padding: 20px;
 }
 .sec-one-left div p{
     font-weight: 500;
