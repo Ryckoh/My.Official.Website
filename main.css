@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6, p{
     text-transform: uppercase;
     background: transparent;
     font-size: 15px;
-    padding: 15px;
+    padding: 12px;
     border: 2px solid var(--darkGreen);
     border-radius: 25px;
     margin: 15px 0;
@@ -162,8 +162,6 @@ h1, h2, h3, h4, h5, h6, p{
     text-align: center;
     margin-bottom: 35px;
     color: var(--lightGreen);
-    animation: text_reveal 0.5s ease forwards;
-    animation-delay: 3s;
 }
 .about-content h3{
     color: #fff;
@@ -241,12 +239,22 @@ blockquote span{
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 20px;
+    padding: 30px;
+}
+.sec-one-left div h3{
+    font-size: 28px;
+    opacity: 0.9;
 }
 .sec-one-left div p{
     font-weight: 500;
     opacity: 1.0;
-    height: 10%
+    height: 13%
+}
+.sec-one-right h3{
+    color: var(--lightGrey);
+}
+.sec-one-right >h3{
+    text-align: center;
 }
 .sec-one-right p{
     opacity: 0.9;
