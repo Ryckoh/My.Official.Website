@@ -243,20 +243,10 @@ blockquote span{
     justify-content: flex-end;
     padding: 30px;
 }
-.sec-one-left div h3{
-    font-size: 28px;
-    opacity: 0.9;
-}
 .sec-one-left div p{
     font-weight: 500;
     opacity: 1.0;
     height: 10%
-}
-.sec-one-right h3{
-    color: var(--lightGrey);
-}
-.sec-one-right >h3{
-    text-align: center;
 }
 .sec-one-right p{
     opacity: 0.9;
