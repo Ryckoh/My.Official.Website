@@ -237,7 +237,7 @@ blockquote span{
 }
 .sec-one-left div{
     color: #fff;
-    height: 110%;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
